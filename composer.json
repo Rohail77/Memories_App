@@ -1,0 +1,21 @@
+{
+    "name": "tahar/memories",
+    "authors": [
+        {
+            "name": "Rohail77",
+            "email": "taharohail77@gmail.com"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "./",
+            "controllers\\": "./controllers",
+            "models\\": "./models",
+            "helpers\\": "./helpers"
+        }
+    },
+    "description": ""
+}

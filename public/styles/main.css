@@ -1,0 +1,35 @@
+a {
+  display: block;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.memories-list .card img {
+  height: 280px;
+}
+
+img {
+  width: 100%;
+}
+
+.description {
+  max-width: 600px;
+}
+
+.update-img {
+  width: 50%;
+  height: 50%;
+}
+
+.details-img {
+  width: 50%;
+  height: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+table {
+  /*min-width: 520px;*/
+}
